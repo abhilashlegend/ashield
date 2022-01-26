@@ -1,0 +1,122 @@
+2020-05-22T13:43:43+00:00 INFO --- Finished Task - ig_es_update_4113_create_files 
+2020-05-22T13:43:43+00:00 INFO [Processed] ig_es_update_4113_create_files
+2020-05-22T13:43:44+00:00 INFO [Processing] ig_es_update_4113_db_version
+2020-05-22T13:43:44+00:00 INFO --- Running Task - ig_es_update_4113_db_version
+2020-05-22T13:43:44+00:00 INFO --- Finished Task - ig_es_update_4113_db_version 
+2020-05-22T13:43:44+00:00 INFO [Processed] ig_es_update_4113_db_version
+2020-05-22T13:43:44+00:00 INFO [Processing] ig_es_update_4115_add_form_submission_option
+2020-05-22T13:43:44+00:00 INFO --- Running Task - ig_es_update_4115_add_form_submission_option
+2020-05-22T13:43:44+00:00 INFO --- Finished Task - ig_es_update_4115_add_form_submission_option 
+2020-05-22T13:43:44+00:00 INFO [Processed] ig_es_update_4115_add_form_submission_option
+2020-05-22T13:43:44+00:00 INFO [Processing] ig_es_update_4115_migrate_db_update_history
+2020-05-22T13:43:44+00:00 INFO --- Running Task - ig_es_update_4115_migrate_db_update_history
+2020-05-22T13:43:44+00:00 INFO --- Finished Task - ig_es_update_4115_migrate_db_update_history 
+2020-05-22T13:43:44+00:00 INFO [Processed] ig_es_update_4115_migrate_db_update_history
+2020-05-22T13:43:44+00:00 INFO [Processing] ig_es_update_4115_db_version
+2020-05-22T13:43:44+00:00 INFO --- Running Task - ig_es_update_4115_db_version
+2020-05-22T13:43:44+00:00 INFO --- Finished Task - ig_es_update_4115_db_version 
+2020-05-22T13:43:44+00:00 INFO [Processed] ig_es_update_4115_db_version
+2020-05-22T13:43:44+00:00 INFO [Processing] ig_es_update_420_alter_campaigns_table
+2020-05-22T13:43:44+00:00 INFO --- Running Task - ig_es_update_420_alter_campaigns_table
+2020-05-22T13:43:45+00:00 INFO --- Finished Task - ig_es_update_420_alter_campaigns_table 
+2020-05-22T13:43:45+00:00 INFO [Processed] ig_es_update_420_alter_campaigns_table
+2020-05-22T13:43:45+00:00 INFO [Processing] ig_es_update_420_create_tables
+2020-05-22T13:43:45+00:00 INFO --- Running Task - ig_es_update_420_create_tables
+2020-05-22T13:43:45+00:00 INFO --- Finished Task - ig_es_update_420_create_tables 
+2020-05-22T13:43:45+00:00 INFO [Processed] ig_es_update_420_create_tables
+2020-05-22T13:43:45+00:00 INFO [Processing] ig_es_update_420_migrate_mailer_options
+2020-05-22T13:43:45+00:00 INFO --- Running Task - ig_es_update_420_migrate_mailer_options
+2020-05-22T13:43:45+00:00 INFO --- Finished Task - ig_es_update_420_migrate_mailer_options 
+2020-05-22T13:43:45+00:00 INFO [Processed] ig_es_update_420_migrate_mailer_options
+2020-05-22T13:43:45+00:00 INFO [Processing] ig_es_update_420_db_version
+2020-05-22T13:43:45+00:00 INFO --- Running Task - ig_es_update_420_db_version
+2020-05-22T13:43:45+00:00 INFO --- Finished Task - ig_es_update_420_db_version 
+2020-05-22T13:43:45+00:00 INFO [Processed] ig_es_update_420_db_version
+2020-05-22T13:43:45+00:00 INFO [Processing] ig_es_update_421_drop_tables
+2020-05-22T13:43:45+00:00 INFO --- Running Task - ig_es_update_421_drop_tables
+2020-05-22T13:43:45+00:00 INFO --- Finished Task - ig_es_update_421_drop_tables 
+2020-05-22T13:43:45+00:00 INFO [Processed] ig_es_update_421_drop_tables
+2020-05-22T13:43:45+00:00 INFO [Processing] ig_es_update_421_create_tables
+2020-05-22T13:43:45+00:00 INFO --- Running Task - ig_es_update_421_create_tables
+2020-05-22T13:43:45+00:00 INFO --- Finished Task - ig_es_update_421_create_tables 
+2020-05-22T13:43:45+00:00 INFO [Processed] ig_es_update_421_create_tables
+2020-05-22T13:43:45+00:00 INFO [Processing] ig_es_update_421_db_version
+2020-05-22T13:43:45+00:00 INFO --- Running Task - ig_es_update_421_db_version
+2020-05-22T13:43:45+00:00 INFO --- Finished Task - ig_es_update_421_db_version 
+2020-05-22T13:43:45+00:00 INFO [Processed] ig_es_update_421_db_version
+2020-05-22T13:43:45+00:00 INFO [Processing] ig_es_update_424_drop_tables
+2020-05-22T13:43:45+00:00 INFO --- Running Task - ig_es_update_424_drop_tables
+2020-05-22T13:43:45+00:00 INFO --- Finished Task - ig_es_update_424_drop_tables 
+2020-05-22T13:43:45+00:00 INFO [Processed] ig_es_update_424_drop_tables
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_424_create_tables
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_424_create_tables
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_424_create_tables 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_424_create_tables
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_424_db_version
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_424_db_version
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_424_db_version 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_424_db_version
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_430_alter_campaigns_table
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_430_alter_campaigns_table
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_430_alter_campaigns_table 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_430_alter_campaigns_table
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_430_db_version
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_430_db_version
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_430_db_version 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_430_db_version
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_431_set_default_permissions
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_431_set_default_permissions
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_431_set_default_permissions 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_431_set_default_permissions
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_431_permanently_delete_lists
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_431_permanently_delete_lists
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_431_permanently_delete_lists 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_431_permanently_delete_lists
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_431_permanently_delete_forms
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_431_permanently_delete_forms
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_431_permanently_delete_forms 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_431_permanently_delete_forms
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_431_disable_autoload_options
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_431_disable_autoload_options
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_431_disable_autoload_options 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_431_disable_autoload_options
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_431_db_version
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_431_db_version
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_431_db_version 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_431_db_version
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_432_import_bfcm_templates
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_432_import_bfcm_templates
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_432_import_bfcm_templates 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_432_import_bfcm_templates
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_432_db_version
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_432_db_version
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_432_db_version 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_432_db_version
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_434_permanently_delete_campaigns
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_434_permanently_delete_campaigns
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_434_permanently_delete_campaigns 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_434_permanently_delete_campaigns
+2020-05-22T13:43:46+00:00 INFO [Processing] ig_es_update_434_db_version
+2020-05-22T13:43:46+00:00 INFO --- Running Task - ig_es_update_434_db_version
+2020-05-22T13:43:46+00:00 INFO --- Finished Task - ig_es_update_434_db_version 
+2020-05-22T13:43:46+00:00 INFO [Processed] ig_es_update_434_db_version
+2020-05-22T13:43:47+00:00 INFO [Processing] ig_es_update_441_create_tables
+2020-05-22T13:43:47+00:00 INFO --- Running Task - ig_es_update_441_create_tables
+2020-05-22T13:43:47+00:00 INFO --- Finished Task - ig_es_update_441_create_tables 
+2020-05-22T13:43:47+00:00 INFO [Processed] ig_es_update_441_create_tables
+2020-05-22T13:43:47+00:00 INFO [Processing] ig_es_update_441_migrate_audience_sync_settings
+2020-05-22T13:43:47+00:00 INFO --- Running Task - ig_es_update_441_migrate_audience_sync_settings
+2020-05-22T13:43:47+00:00 INFO --- Finished Task - ig_es_update_441_migrate_audience_sync_settings 
+2020-05-22T13:43:47+00:00 INFO [Processed] ig_es_update_441_migrate_audience_sync_settings
+2020-05-22T13:43:47+00:00 INFO [Processing] ig_es_update_441_db_version
+2020-05-22T13:43:47+00:00 INFO --- Running Task - ig_es_update_441_db_version
+2020-05-22T13:43:47+00:00 INFO --- Finished Task - ig_es_update_441_db_version 
+2020-05-22T13:43:47+00:00 INFO [Processed] ig_es_update_441_db_version
+2020-05-22T13:43:47+00:00 INFO [Processing] ig_es_update_442_set_workflows_default_permission
+2020-05-22T13:43:47+00:00 INFO --- Running Task - ig_es_update_442_set_workflows_default_permission
+2020-05-22T13:43:47+00:00 INFO --- Finished Task - ig_es_update_442_set_workflows_default_permission 
+2020-05-22T13:43:47+00:00 INFO [Processed] ig_es_update_442_set_workflows_default_permission
+2020-05-22T13:43:47+00:00 INFO [Processing] ig_es_update_442_db_version
+2020-05-22T13:43:47+00:00 INFO --- Running Task - ig_es_update_442_db_version
+2020-05-22T13:43:47+00:00 INFO --- Finished Task - ig_es_update_442_db_version 
+2020-05-22T13:43:47+00:00 INFO [Processed] ig_es_update_442_db_version
